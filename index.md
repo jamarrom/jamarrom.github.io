@@ -26,9 +26,11 @@ A lo largo de mi trayectoria profesional, he tenido la oportunidad de colaborar 
 
 Desarrollo de Full-stack, sistema para carga de xmls de ventas y comprar, generación de zip con archivo JSON para reportes al SAT.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Desarrollo realizado con tecnologias como: Reactjs, Nextjs, Nodejs, Prisma, Tailwind css, PostgreSQL
+
+![Branching](https://github.com/jamarrom/jamarrom.github.io/blob/main/assets/images/autogas.jpeg)
+
+
 
 ### Header 3
 
