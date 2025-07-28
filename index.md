@@ -31,6 +31,22 @@ Desarrollo de Full-stack, sistema para carga de xmls de ventas y comprar, genera
 ![Branching](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/autogas.jpeg)
 
 
+## Sitio web Urgegas
+
+Desarrollo de Front-End, Integración de pasarela de pago Stripe, clip, conexión de endpoints con formularios, mejora del proceso de compra
+
+> Desarrollo realizado con tecnologias como: Reactjs, Nextjs, MongoDB, Tailwind css
+
+![Branching](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/autogas.jpeg)
+
+
+## Sitio web Memecol
+
+Desarrollo de Front-End, creación de sitio web
+
+> Desarrollo realizado con tecnologias como: HTML5, CSS, Javascript, Adobe Photoshop
+
+![Branching](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/autogas.jpeg)
 
 ### Header 3
 
