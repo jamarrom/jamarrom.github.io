@@ -2,15 +2,16 @@
 layout: default
 ---
 
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Desarrollador Full Stack** con más de 10 años de _experiencia en la creación de soluciones digitales_. **Experto en tecnologías modernas como Node.js, React, AWS**. Enfocado en desarrollar sistemas escalables que incrementen la productividad y optimicen procesos empresariales. Apasionado por la innovación y la mejora continua.
 
-# Header 1
+# Sitio de Controles volumetricos
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
