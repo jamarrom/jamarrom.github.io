@@ -3,19 +3,28 @@ layout: default
 ---
 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+There should be whitespace between paragraphs. -->
 
 **Desarrollador Full Stack** con más de 10 años de _experiencia en la creación de soluciones digitales_. **Experto en tecnologías modernas como Node.js, React, AWS**. Enfocado en desarrollar sistemas escalables que incrementen la productividad y optimicen procesos empresariales. Apasionado por la innovación y la mejora continua.
 
-# Sitio de Controles volumetricos
+# Trayectoria profesional
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+A lo largo de mi trayectoria profesional, he tenido la oportunidad de colaborar en diversos proyectos tecnológicos, destacando en las siguientes áreas:
 
-## Header 2
+*   Desarrollo de páginas web y aplicaciones móviles.
+*   Creación de campañas publicitarias digitales y diseño de correos electrónicos.
+*   Implementación de tiendas en línea (e-commerce).
+*   Impartición de mentorías y cursos personalizados según necesidades específicas.
+*   Instalación de software, junto con mantenimiento preventivo y correctivo de equipos.
+
+
+## Sitio de Controles volumetricos
+
+Desarrollo de Full-stack, sistema para carga de xmls de ventas y comprar, generación de zip con archivo JSON para reportes al SAT.
 
 > This is a blockquote following a header.
 >
