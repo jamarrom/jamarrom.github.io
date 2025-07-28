@@ -28,7 +28,7 @@ Desarrollo de Full-stack, sistema para carga de xmls de ventas y comprar, genera
 
 > Desarrollo realizado con tecnologias como: Reactjs, Nextjs, Nodejs, Prisma, Tailwind css, PostgreSQL
 
-![Branching](https://github.com/jamarrom/jamarrom.github.io/blob/main/assets/images/autogas.jpeg)
+![Branching](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/autogas.jpeg)
 
 
 
