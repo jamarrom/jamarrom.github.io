@@ -21,14 +21,14 @@ A lo largo de mi trayectoria profesional, he tenido la oportunidad de colaborar 
 *   Impartición de mentorías y cursos personalizados según necesidades específicas.
 *   Instalación de software, junto con mantenimiento preventivo y correctivo de equipos.
 
-
+# Desarrollo de software
 ## Sitio de Controles volumetricos
 
 Desarrollo de Full-stack, sistema para carga de xmls de ventas y comprar, generación de zip con archivo JSON para reportes al SAT.
 
 > Desarrollo realizado con tecnologias como: Reactjs, Nextjs, Nodejs, Prisma, Tailwind css, PostgreSQL
 
-![Branching](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/autogas.jpeg)
+![controles](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/autogas.jpeg)
 
 
 ## Sitio web Urgegas
@@ -37,7 +37,7 @@ Desarrollo de Front-End, Integración de pasarela de pago Stripe, clip, conexió
 
 > Desarrollo realizado con tecnologias como: Reactjs, Nextjs, MongoDB, Tailwind css
 
-![Branching](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/autogas.jpeg)
+![Urgegas](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/urgegas.jpeg)
 
 
 ## Sitio web Memecol
@@ -46,7 +46,71 @@ Desarrollo de Front-End, creación de sitio web
 
 > Desarrollo realizado con tecnologias como: HTML5, CSS, Javascript, Adobe Photoshop
 
-![Branching](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/autogas.jpeg)
+![Memecol](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/memecol.jpeg)
+
+
+## Sitio web Acxede
+
+Desarrollo de Front-End, pagina web para compra de boletos con pasarela de pago paypal
+
+> Desarrollo realizado con tecnologias como: HTML5, CSS, Javascript, Adobe Photoshop, Paypal, JSON
+
+![Acxede](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/axcede.jpeg)
+
+
+## Sitio web Acxede
+
+Desarrollo de pagina web con combinación de HTML, CSS, Javascript y CMS Wordpress
+
+> Desarrollo realizado con tecnologias como: HTML5, CSS, Javascript, Adobe Photoshop, CMS Wordpress
+
+![Acxede](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/canvack.jpeg)
+
+
+## Sitio web Concretev
+
+Desarrollo de sitio web
+
+> Desarrollo realizado con tecnologias como: HTML5, CSS, Javascript, Adobe Photoshop
+
+![Concretev](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/concretev.jpeg)
+
+
+## Sitio web Expertos químicos
+
+Desarrollo de pagina web con CMS Wordpress
+
+> Desarrollo realizado con tecnologias como: Wordpress, javacript, Elementor
+
+![Quimicos](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/expertos.jpeg)
+
+
+## Sitio web Mejoralemx
+
+Desarrollo de Front-End para una empresa en chihuahua
+
+> Desarrollo realizado con tecnologias como: HTML5, CSS, javacript, Adobe Photoshop
+
+![Mejorale](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/mejore.jpeg)
+
+
+## Sitio web Mejoralemx
+
+Desarrollo de Front-End para una empresa en chihuahua
+
+> Desarrollo realizado con tecnologias como: HTML5, CSS, javacript, Adobe Photoshop
+
+![COncretev](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/mejore.jpeg)
+
+
+## Sitio web Novum
+
+Desarrollo del Front-End
+
+> Desarrollo realizado con tecnologias como: Wic, Figma, Javascript
+
+![COncretev](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/novum.jpeg)
+
 
 ### Header 3
 
