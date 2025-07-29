@@ -112,6 +112,9 @@ Bootcamp impartido para impulsar a estudiantes y desarrolladores a aprender a pr
 > Impartido de Marzo a Noviembre, Se inicio aprendiendo el desarrollo de logica programación en el uso del lenguaje de programación c++ y se concluido aprendiendo diversas tecnologias como Nodejs
 
 
+| ![bootcamp](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/bc1.jpg)     | ![bootcamp](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/bc2.jpg)      | ![bootcamp](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/bc3.jpg) |
+
+
 ## Curso de programación
 
 Cursos de programación a estudian de universidad, según la necesidad del estudiante
