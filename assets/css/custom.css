@@ -1,9 +1,6 @@
-p, h2 {
-    padding: 0px 15px;
-}
 
 @media (max-width: 768px) {
-    p, h2 {
+    p, h1, h2 {
         padding: 0px 15px !important;
     }
 }
