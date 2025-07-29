@@ -119,8 +119,7 @@ Cursos de programación a estudian de universidad, según la necesidad del estud
 > Se han impartido cursos de programación, base de datos, modelado de base de datos.
 
 
-| ![Ujat](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/ujat2.JPG) | ![Ujat](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/ujat3.JPG)|
-| ![Ujat](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/ujat4.JPG) |
+| ![Ujat](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/ujat2.JPG)     | ![Ujat](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/ujat3.JPG)      | ![Ujat](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/ujat4.JPG) |
 
 
 
