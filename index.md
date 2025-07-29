@@ -103,7 +103,24 @@ Desarrollo del Front-End
 ![COncretev](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/novum.jpeg)
 
 
-### Header 3
+# Cursos y Capacitaciones
+
+## Bootcamp sp24
+
+Bootcamp impartido para impulsar a estudiantes y desarrolladores a aprender a programar
+
+> Impartido de Marzo a Noviembre, Se inicio aprendiendo el desarrollo de logica programación en el uso del lenguaje de programación c++ y se concluido aprendiendo diversas tecnologias como Nodejs
+
+
+## Curso de programación
+
+Cursos de programación a estudian de universidad, según la necesidad del estudiante
+
+> Se han impartido cursos de programación, base de datos, modelado de base de datos.
+
+
+
+<!-- ### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -203,4 +220,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
