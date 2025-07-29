@@ -58,7 +58,7 @@ Desarrollo de Front-End, pagina web para compra de boletos con pasarela de pago 
 ![Acxede](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/axcede.jpeg)
 
 
-## Sitio web Acxede
+## Sitio web Canvacks
 
 Desarrollo de pagina web con combinación de HTML, CSS, Javascript y CMS Wordpress
 
@@ -92,15 +92,6 @@ Desarrollo de Front-End para una empresa en chihuahua
 > Desarrollo realizado con tecnologias como: HTML5, CSS, javacript, Adobe Photoshop
 
 ![Mejorale](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/mejore.jpeg)
-
-
-## Sitio web Mejoralemx
-
-Desarrollo de Front-End para una empresa en chihuahua
-
-> Desarrollo realizado con tecnologias como: HTML5, CSS, javacript, Adobe Photoshop
-
-![COncretev](https://raw.githubusercontent.com/jamarrom/jamarrom.github.io/refs/heads/main/assets/images/mejore.jpeg)
 
 
 ## Sitio web Novum
